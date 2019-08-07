@@ -1,4 +1,6 @@
 @import "bootstrap";
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Viga&display=swap');
+
 
 .clear {
   clear: both;
@@ -44,3 +46,14 @@ header{
   border-top: 9px solid #222222;
 }
 
+h1{
+  font-family: 'Shadows Into Light', cursive;
+  font-weight: 600l;
+  letter-spacing: -1.5px;
+}
+
+h2 {
+  font-family: 'Viga', sans-serif;
+  font-weight: 600;
+  letter-spacing: -1.5px;
+}
